@@ -35,4 +35,3 @@ Before running the application, you need to set up each component.
 1. Navigate to the `frontend` directory:
    ```bash
    cd frontend
-# FarmChainCZX
